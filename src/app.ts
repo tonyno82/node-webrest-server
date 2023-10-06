@@ -3,7 +3,7 @@ import { envs } from './config/envs';
 import { AppRoutes } from './presentation/routes';
 
 
-(() => {
+(async() => {
     main()
 })()
 
