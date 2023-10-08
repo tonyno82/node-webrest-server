@@ -5,3 +5,6 @@ keys/
 .env
 dist/
 .DS_Store
+
+
+/postgres
