@@ -4,6 +4,7 @@ node_modules/
 keys/
 .env
 .env.test
+.env.test.2
 dist/
 .DS_Store
 
